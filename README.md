@@ -1,3 +1,16 @@
-# Dropwizard 7.1
+# Dropwizard Hibernate
 
-Test project for Dropwizard 7.1 updating my previous 0.6.2 code sample to use 7.1
+Sample project using [Dropwizard 7.1](http://dropwizard.io/) with [Hibernate](http://hibernate.org/).
+Requires [Gradle](http://www.gradle.org/) to build.
+
+## Run
+
+```
+./go
+```
+
+## Test
+
+```
+gradle test
+```

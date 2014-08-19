@@ -37,6 +37,7 @@ repositories {
 dependencies {
     compile (
         'io.dropwizard:dropwizard-core:' + dropwizardVersion,
+        'io.dropwizard:dropwizard-hibernate:' + dropwizardVersion,
         'com.sun.jersey:jersey-core:' + jerseyVersion
     )
     testCompile (
